@@ -4,6 +4,11 @@ With over 3.5 billion internet users and growing online retail sales, book recom
 # -Objective :
 I an AI-based book recommendation system that utilizes customer data to provide personalized and relevant book suggestions. The primary goal of this system is to increase customer satisfaction and sales revenue by improving the shopping experience and helping customers discover new books they are likely to enjoy.
 
+In this case study, I will build three types of recommendation systems:
+- **Knowledge/Rank Based recommendation system**
+- **Similarity-Based Collaborative filtering**
+- **Matrix Factorization Based Collaborative Filtering**
+
 # -Dataset:
 The ratings dataset contains the following attributes:
 
@@ -25,3 +30,5 @@ and the last dataset is users information which contain:
 User_id
 Location 
 Age
+
+
